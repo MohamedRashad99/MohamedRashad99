@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedrashad99" alt="mohamedrashad99" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Apps - Embedded systems**
+- 🌱 I’m currently learning **Web & Mobile Apps **
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedRashad99?tab=repositories](https://github.com/MohamedRashad99?tab=repositories)
 
